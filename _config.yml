@@ -65,9 +65,10 @@ features                                  :
   - title                                 : Explore
     description                           : Easily peruse your thoughts, sorting and filtering with robust options and search through Thoughts, Keywords and Sequences.
     fontawesome_icon_name                 : binoculars
+    
   - title                                 : Space-conscious
     description                           : YOU was built for speed and simplicity, a by product of that is a tiny footprint on your device.  YOU takes up less than 2mb of space when installed, and is specifically designed to never demand a significant amount of power.
-    fontawesome_icon_name                 : binoculars
+    fontawesome_icon_name                 : battery
 
 # Theme Settings
 topbar_color                              : "#000000"
