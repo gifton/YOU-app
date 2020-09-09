@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Accessable
     description                           : YOU is built with the intention of making the recording of Thoughts as easy as possible. One-click new Thoughts, Adjustable font sizes and much more!
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : thumbs-up
   
   - title                                 : Progress
     description                           : Improvement always beneifits from the Acknowledgement of progress.  Keep track of what you do in YOU with the Progress page and Thought History feature
@@ -60,11 +60,11 @@ features                                  :
 
   - title                                 : Keywords
     description                           : Use Keywords to find Related Thoughts, create unique trails of thought by adding custom Keywords.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : link
 
   - title                                 : Explore
     description                           : Easily peruse your thoughts, sorting and filtering with robust options and search through Thoughts, Keywords and Sequences.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : binoculars
 
 # Theme Settings
 topbar_color                              : "#000000"
