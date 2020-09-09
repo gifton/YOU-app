@@ -68,7 +68,7 @@ features                                  :
     
   - title                                 : Space-conscious
     description                           : YOU was built for speed and simplicity, a by product of that is a tiny footprint on your device.  YOU takes up less than 2mb of space when installed, and is specifically designed to never demand a significant amount of power.
-    fontawesome_icon_name                 : battery
+    fontawesome_icon_name                 : battery-full
 
 # Theme Settings
 topbar_color                              : "#000000"
