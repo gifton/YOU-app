@@ -4,62 +4,13 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
-<br>
-
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-________
-<br>
-
-### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
+YOU has launched on the app store! We are excited to share this with the world, and hope you enjoy it as much as we have. 
+For a bit of an introduction, let me take you on a short journey through YOU, its intended benifits, and a healthy dose of my personal thoughts on it throughout. 
+<br> 
+YOU started out as an application that had one purpose in mind; to lower the amount of time I had between having an important thought, and being able to record it.  I love journaling, and so I took its culminating ideas as a starting point for this application. After spending some time putting together some designs, and POC's for what would be YOU, I relaized there was a lot of opportunity in tackling other fundementally innefeciant choices in classical journaling. The first is its accessability, in terms of being able to record an entry, most people have had to habitually add into their daily lives time to Journal.  It previously was a fairly invasive task.  Now that we live in an era where its almost unthinkable to not have some sort of device around you, the barrier for entry on recording a new thought has been lowered considerably, anywhere you are, you can "journal" just as easy as the hundreds of other tasks you accomplish in similar likeness everyday. The second (and my personal favorite) aspect of journaling that can be improved upon is the ability to build relationships.  Journaling is a way for us to identify the most important ideas, concepts, emotions, events and interactions we've had in a give period of time, there is a multitude of useful information, forgotten context, and previously misunderstood content that can be very useful in progressing your train of thought.  I've always wished there was a search field on top of all my Journals, to reference something I cant quite pin a date on, and so we took that and ran with it.  YOU is able to identify Keywords within a given Thought, and use it to relate it to other Thoughts.  You can create Keywords yourself to build stronger relationships between Thoughts as well.  Sequences are another tool to help with organizing your content.  While journaling has been stricly limited to a linear path centered around date, YOU can sort Thoughts by a multitude of options, and allows for searching, filtering by Keywords and more.  Sequences help you create new lists of Thoughts, allowing you to build your own mini-journal of sorts from those Thoughts. The final aspect of journaling that we wanted to touch on was the idea of progress.  It feels great to complete a notebook, and fill it with nothing but your thoughts. We really do believe that positive affirmation of progress is benificial to the continued desire to grow, so we built (and are building more!) features to keep you aware of your effort.  The Progress page shows you what youve been doing, thinking about, and working on.  And is a great place to find a Thought/Keyword/Sequence you just cant remember the content of.  Thoughts themselves keep a history of changes and updates you've made to them, and shows you everytime you view the Thought. 
+<br> 
+Over all, we are so excited to share what we've put together, and more than anything, are excited for the feedback and reccomendations we will undoubtedly get from everyone.  With your help we want to keep improving, and make something awesome. Thanks for reading, 
+Gifton.
 <br>
