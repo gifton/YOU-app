@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Gifton Okoronkwo                                
+your_name                                 : Gifton                                
 your_link                                 :                    
 your_city                                 : Seattle                                
 email_address                             : giftondev@gmail.com
@@ -39,42 +39,32 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Safe
-    description                           : This app does not connect to any networks or servers, for any reason.  Your content stays on your device
+    description                           : This app does not store your content on any server, for any reason.  Your content stays on your device. Always.
     fontawesome_icon_name                 : lock
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Smarts
+    description                           : YOU  was built to help, whenever a new Thought is added YOU will identify keywords in it, and help you find similar Thoughts.
+    fontawesome_icon_name                 : brain
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Build relationships
+    description                           : Use Sequences to create groups of Thoughts, and use that context to help further your thought progression.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Accessable
+    description                           : YOU is built with the intention of making the recording of Thoughts as easy as possible. One-click new Thoughts, Adjustable font sizes and much more!
+    fontawesome_icon_name                 : magnifying-glass
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Progress
+    description                           : Improvement always beneifits from the Acknowledgement of progress.  Keep track of what you do in YOU with the Progress page and Thought History feature
+    fontawesome_icon_name                 : clock
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Keywords
+    description                           : Use Keywords to find Related Thoughts, create unique trails of thought by adding custom Keywords.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Explore
+    description                           : Easily peruse your thoughts, sorting and filtering with robust options and search through Thoughts, Keywords and Sequences.
     fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
