@@ -25,7 +25,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Apple App Stire Services](https://www.apple.com/legal/privacy/en-ww/)
+*   [Apple App Store Services](https://www.apple.com/legal/privacy/en-ww/)
 
 **Log Data**
 
