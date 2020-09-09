@@ -12,7 +12,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : assets/Icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : YOU                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A new kind of Journaling
+app_description                           : A new kind of Journaling Esxperiance
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,13 +34,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Journaling, but everywhere
+    description                           : We wanted to minimize time between what you think, and when you record.  Instead of waiting till the end of the day, or a conveniant time to sit with a notebook, open YOU and Voilá!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Safe
+    description                           : This app does not connect to any networks or servers, for any reason.  Your content stays on your device
+    fontawesome_icon_name                 : lock
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
